@@ -1,0 +1,10 @@
+local player = game.Players.LocalPlayer
+local sg = Instance.new("ScreenGui")
+sg.Parent = player.PlayerGui
+sg.IgnoreGuiInset = true
+sg.ResetOnSpawn = false
+local text = Instance.new("TextLabel")
+text.Parent = sg
+text.Text = "Fuck you dumbass bitch trying to use Puck Grab in roblox HHCL hockey dumbass literally so retarded bruh get a life bitch"
+text.TextScaled = true
+text.Size = UDim2.new(1, 0, 1, 0)
